@@ -5,4 +5,4 @@
 
   + [Установка Python Core и зависимости win32api](python-installation-guide.md)
 
-+
++ [Установка гостевой ОС](guest-os-installation-guide.md)

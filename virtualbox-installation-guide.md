@@ -5,7 +5,7 @@
 
 Чтобы установить VirtualBox, выполните действия:
 
-1. Откройте сайт virtualbox.org, нажмите кнопку *Download*:
+1. Откройте сайт [virtualbox.org](https://www.virtualbox.org/), нажмите кнопку *Download*:
 
     ![](./images/1.png "Рис.1 Скачивание установщика")
 
@@ -67,4 +67,9 @@
 
    Также вы можете отметить галочкой пункт *Start VirtualBox 7.1.2 after installation*, если хотите запустить VirtualBox сразу после завершения установки.
 
+---
 
+## Дальнейшие шаги
+
+1. [Установите гостевую ОС](guest-os-installation-guide.md);
+1. Установите дополнительный пакет VirtualBox Guest Additions (опционально).
